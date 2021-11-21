@@ -1,0 +1,85 @@
+* {
+    font-family: 'Kaushan Script', cursive; 
+    background-color: #ccf5ff;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'UnifrakturCook';
+    font-size: 45px;
+    color: #000099;
+}
+
+img {
+    height: 500px;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+#head1 {
+    margin: 0 50px;
+    font-size: 50px;
+    margin-top: 40px;
+    font-family: 'UnifrakturCook';
+    color: #000099;
+}
+
+#para1 {
+    text-align: center;
+    margin: 50px 80px;
+    font-size: 20px;
+    width: 30%;
+    float: left;
+}
+
+#head2 {
+    float: right;
+    font-size: 50px;
+    margin-right: 150px;
+    font-family: 'UnifrakturCook';
+    color: #000099;
+}
+
+video {
+    height: 350px;
+    width: 50%;
+    float: right;
+    border-radius: 30px;
+    background-color: #3385ff;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+h3 {
+    font-family: 'UnifrakturCook';
+    font-size: 40px;
+    text-align: center;
+    color: #000099;
+}
+
+p {
+    text-align: center;
+    margin: 20px 50px;
+    font-size: 20px;
+}
+
+p::first-letter {
+    font-size: 35px;
+    color: #4d94ff;
+}
+
+button {
+    background-color: #0039e6;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #ff66ff;
+    font-size: 20px;
+}
+
+.right {
+    float: right;
+}
